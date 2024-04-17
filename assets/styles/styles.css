@@ -1,0 +1,168 @@
+body{
+    margin: unset;
+}
+.footertext{
+    text-align: center;
+    background-color: dimgray;
+    color: white;
+}
+.call-us-box{
+    width: 180px;
+    height: 60px;
+    margin-right: 24px;
+    font-size: 18px;
+    border: solid 2px #000000;
+    border-radius: 8px;
+    background-color: gold;
+
+}
+.buttonbox{
+    display: flex;
+    justify-content: flex-end;
+}
+.headertext{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.services-heading {
+    font-size: 52px;
+    text-align: left;
+    margin-left: 52px;
+    background-color: dimgray;
+    color:white;
+}
+.main-page-services {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: dimgray;
+}
+.service-item {
+    border-style: solid;
+    border-color: #ffff;
+    border-width: 2px;
+    width: 30%;
+    text-align: center;
+    border-radius: 14px;
+    color: white;
+}
+.service-item h2 {
+    font-size: 32px;
+}
+
+.service-item p {
+    font-size: 24px;
+
+}
+
+.service-item ul {
+    list-style: none;
+    padding: 0;
+}
+
+.service-button-buy {
+    width: 180px;
+    height: 60px;
+    margin-bottom: 24px;
+    font-size: 18px;
+    border: solid 2px #ffff;
+    border-radius: 8px;
+    background-color: dimgray;
+    color: white
+
+}
+
+.service-button-buy:hover {
+    color:#ffff;
+    background-color: black;
+
+}
+.backgroundcolorgray{
+    background-color: dimgray;
+}
+.textmuj{
+    color: white;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.nadpismuj{
+    font-size: 56px;
+
+}
+.obrazek1{
+    text-align: center;
+}
+.aboutus-main {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 50px 0px 50px 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    background-color: black;
+}
+
+.backgroundcolorblack{
+    background-color: black;
+}
+.aboutus-info{
+    margin-left: 50px;
+}
+.secondary-section {
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+
+.secondary-section .content {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.secondary-section h2 {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    margin-left: 200px;
+}
+
+.secondary-section p {
+    font-size: 40px;
+    color: white;
+    margin-left: 200px;
+}
+
+.secondary-section .image-container img {
+    max-width: 100%;
+    border-radius: 10%;
+}
+.joinnowbutton{
+    display: flex;
+    justify-content: flex-end;
+}
+.joinbutton{
+    width: 180px;
+    height: 60px;
+    margin-left: 24px;
+    font-size: 18px;
+    border: solid 2px #000000;
+    border-radius: 8px;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.textkonec{
+    color: white;
+    margin-left: 36px;
+    font-size: 25px;
+}
